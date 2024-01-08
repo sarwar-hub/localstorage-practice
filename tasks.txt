@@ -1,0 +1,14 @@
+task - 1
+----------
+(i) set some value to localstorage and get them
+
+(ii) make counter that, increase n decrease counted value using localstorage
+
+
+
+
+
+task - 2
+----------
+make a form and make it dymamic using localstorage
+
